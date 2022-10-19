@@ -2,8 +2,8 @@
 ## Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo!
 <div align="center">
   <a href="https://github.com/robert1802">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=robert1802&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert1802&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robert1802&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert1802&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Roberto-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
