@@ -22,7 +22,7 @@
     <td><a href="https://github.com/Robert1802/HackerRank">Link</td>
   </tr>
   <tr>
-    <td>PluralSight-Clean-Code</td>
+    <td>PluralSight - C# Clean Code</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">Link</td>
   </tr>
 </table>
