@@ -14,6 +14,10 @@
     <td><a href="https://github.com/Robert1802/HTTP-Basics">Link</td>
   </tr>
   <tr>
+    <td>JavaScript - CheatSheet</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-CheatSheet">Link</td>
+  </tr>
+  <tr>
     <td>HackerRank - JavaScript</td>
     <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">Link</td>
   </tr>
