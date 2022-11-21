@@ -1,4 +1,4 @@
-## Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo!
+## Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
 <div style="display: flex" align="center">
   <a href="https://github.com/robert1802">
     <img height="160em"
@@ -37,8 +37,13 @@
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">PluralSight - C# Unit Test</td>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars</td>
     <td>-</td>
   </tr>
 </table>
