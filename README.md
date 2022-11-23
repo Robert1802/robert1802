@@ -23,28 +23,28 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/HTTP-Basics">HTTP Basic</td>
-    <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
     <td><a href="https://github.com/Robert1802/mern-stack-example">MERN (JS) Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-CheatSheet">JavaScript - CheatSheet</td>
-    <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges: 15</td>
     <td><a href="https://github.com/Robert1802/MEAN-TS">MEAN (TS) Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">PluralSight - C# Clean Code</td>
-    <td><a href="https://github.com/Robert1802/LeetCode-JavaScript">JavaScript - LeetCode</td>
-    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">PluralSight - MongoDB With NodeJs</td>
+    <td><a href="https://github.com/Robert1802/LeetCode-JavaScript">JavaScript - LeetCode: 2</td>
+    <td><a href="https://github.com/Robert1802/MEVN-JS">MEVN (JS) Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">PluralSight - C# Unit Test</td>
-    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank</td>
-    <td><a href="https://github.com/Robert1802/Mongoose-Express">Mongoose + Express</td>
+    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 37</td>
+    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">PluralSight - MongoDB With NodeJs</td>
   </tr>
   <tr>
     <td>-</td>
-    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars</td>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
+    <td><a href="https://github.com/Robert1802/Mongoose-Express">Mongoose + Express</td>
   </tr>
 </table>
 
