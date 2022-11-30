@@ -32,7 +32,7 @@
     <td><a href="https://github.com/Robert1802/MEAN-TS">MEAN (TS) Stack Example</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript-Test-Driven-Development</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unitest + Integration Test)</td>
     <td><a href="https://github.com/Robert1802/LeetCode-JavaScript">JavaScript - LeetCode: 2</td>
     <td><a href="https://github.com/Robert1802/MEVN-JS">MEVN (JS) Stack Example</td>
   </tr>
