@@ -37,14 +37,24 @@
     <td><a href="https://github.com/Robert1802/MEVN-JS">MEVN (JS) Stack Example</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">PluralSight - C# Clean Code</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - OOP</td>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 37</td>
     <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">PluralSight - MongoDB + NodeJs + Unitest</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">PluralSight - C# Unit Test</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D.</td>
     <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
     <td><a href="https://github.com/Robert1802/Mongoose-Express">Mongoose + Express</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">PluralSight - C# Clean Code</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">PluralSight - C# Unit Test</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
