@@ -46,13 +46,18 @@
     <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
     <td><a href="https://github.com/Robert1802/Mongoose-Express">Mongoose + Express</td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">PluralSight - C# Clean Code</td>
+    <tr>
+    <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">PluralSight - C# Unit Test</td>
+    <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">C# - Clean Code</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">C# - Unit Test</td>
     <td>-</td>
     <td>-</td>
   </tr>
