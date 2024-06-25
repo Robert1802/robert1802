@@ -66,6 +66,12 @@
     <td>-</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/LinqCheatSheet">C# - LINQ CheatSheet</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+</table>
 </table>
   
 <div align="center" style="display: inline_block"><br>
