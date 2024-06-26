@@ -71,6 +71,11 @@
     <td>-</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/EfCoreAcademy">C# - Entity Framework Core</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
 </table>
 </table>
   
