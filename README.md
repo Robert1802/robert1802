@@ -15,9 +15,6 @@
       HTML / JavaScript
     </th>
     <th>
-      Code Challenges
-    </th>
-    <th>
       C# .NET
     </th>
     <th>
