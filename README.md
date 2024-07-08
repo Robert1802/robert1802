@@ -18,7 +18,7 @@
       Algorithm Challenges
     </th>
     <th>
-      Stack Examples
+      Stacks / Projects
     </th>
   </tr>
   <tr>
@@ -54,7 +54,7 @@
   <tr>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">C# - Clean Code</td>
     <td>-</td>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API with EF</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">C# - Unit Test</td>
@@ -73,6 +73,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/EfCoreAcademy">C# - Entity Framework Core</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API CheatSheet</td>
     <td>-</td>
     <td>-</td>
   </tr>
