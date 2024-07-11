@@ -39,12 +39,12 @@
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - OOP</td>
     <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
-    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">JS - MongoDB + NodeJs + Unitest</td>
+    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">JavaScript - MongoDB + Node + Unitest</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D.</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">C# - Clean Code</td>
-    <td><a href="https://github.com/Robert1802/Mongoose-Express">JS - Mongoose + Express</td>
+    <td><a href="https://github.com/Robert1802/Mongoose-Express">JavaScript - Mongoose + Express</td>
   </tr>
     <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
