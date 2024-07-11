@@ -24,27 +24,27 @@
   <tr>
     <td><a href="https://github.com/Robert1802/HTTP-Basics">HTTP Basic</td>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 37</td>
-    <td><a href="https://github.com/Robert1802/mern-stack-example">JS - MERN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/mern-stack-example">JavaScript - MERN Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-CheatSheet">JavaScript - CheatSheet</td>
     <td><a href="https://github.com/Robert1802/LeetCode-CSharp">C# - LeetCode: 8</td>
-    <td><a href="https://github.com/Robert1802/MEAN-TS">TS - MEAN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/MEAN-TS">TypeScript - MEAN Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration Test)</td>
     <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
-    <td><a href="https://github.com/Robert1802/MEVN-JS">JS - MEVN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/MEVN-JS">JavaScript - MEVN Stack Example</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - OOP</td>
     <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
-    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">MongoDB + NodeJs + Unitest</td>
+    <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">JS - MongoDB + NodeJs + Unitest</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D.</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">C# - Clean Code</td>
-    <td><a href="https://github.com/Robert1802/Mongoose-Express">Mongoose + Express</td>
+    <td><a href="https://github.com/Robert1802/Mongoose-Express">JS - Mongoose + Express</td>
   </tr>
     <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
