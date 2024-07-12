@@ -52,9 +52,9 @@
     <td><a href="https://github.com/Robert1802/CleanArchMvc">C# - Clean Archtecture MVC</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D.</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D. (Concept)</td>
     <td><a href="https://github.com/Robert1802/ConsoleGPT">C# - ConsoleGPT</td>
-    <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API with EF</td>
+    <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API with EF + OAuth2 + Logging</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration Test)</td>
