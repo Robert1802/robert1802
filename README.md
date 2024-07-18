@@ -49,7 +49,7 @@
     <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - O.O.P. (Concept)</td>
     <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API</td>
-    <td align="center"><b>C# CheatSheet / Challenges</b></td>
+    <td align="center"><b>C# .NET Projects</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D. (Concept)</td>
@@ -61,7 +61,7 @@
     <td><a href="https://github.com/Robert1802/TodoApi">C# - ASP.NET Core API</td>
     <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API + EF + OAuth2 + Logging</td>
   <tr>
-    <td align="center"><b>C# .NET Projects</b></td>
+    <td align="center"><b>C# CheatSheet / Challenges</b></td>
     <td><a href="https://github.com/Robert1802/RazorPagesMovie">C# - ASP.NET Core + Razor</td>
     <td>-</td>
   </tr>
