@@ -18,7 +18,7 @@
       C# .NET Concepts
     </th>
     <th>
-      Stacks / Projects
+      JavaScript/TypeScript - Stacks
     </th>
   </tr>
   <tr>
@@ -48,18 +48,18 @@
   </tr>
     <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - O.O.P. (Concept)</td>
-    <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API CheatSheet</td>
-    <td><a href="https://github.com/Robert1802/CleanArchMvc">C# - Clean Archtecture MVC</td>
+    <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API</td>
+    <td align="center"><b>C# CheatSheet / Challenges</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D. (Concept)</td>
     <td><a href="https://github.com/Robert1802/EfCoreAcademy">C# - Entity Framework Core</td>
-    <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API + EF + OAuth2 + Logging</td>
+    <td><a href="https://github.com/Robert1802/CleanArchMvc">C# - Clean Archtecture MVC</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration Test)</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration)</td>
     <td><a href="https://github.com/Robert1802/TodoApi">C# - ASP.NET Core API</td>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API + EF + OAuth2 + Logging</td>
   <tr>
     <td align="center"><b>C# CheatSheet / Challenges</b></td>
     <td><a href="https://github.com/Robert1802/RazorPagesMovie">C# - ASP.NET Core + Razor</td>
