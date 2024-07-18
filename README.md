@@ -61,7 +61,7 @@
     <td><a href="https://github.com/Robert1802/ConsoleGPT">C# - ConsoleGPT</td>
     <td>-</td>
   <tr>
-    <td>-</td>
+    <td><b>C# CheatSheet / Challenges</b></td>
     <td><a href="https://github.com/Robert1802/LinqCheatSheet">C# - LINQ CheatSheet</td>
     <td>-</td>
   </tr>
