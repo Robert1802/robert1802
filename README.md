@@ -61,27 +61,27 @@
     <td><a href="https://github.com/Robert1802/ConsoleGPT">C# - ConsoleGPT</td>
     <td>-</td>
   <tr>
-    <td><b>C# CheatSheet / Challenges</b></td>
+    <td align="center"><b>C# CheatSheet / Challenges</b></td>
     <td><a href="https://github.com/Robert1802/LinqCheatSheet">C# - LINQ CheatSheet</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
     <td><a href="https://github.com/Robert1802/TodoApi">C# - ASP.NET Core API</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 37</td>
     <td><a href="https://github.com/Robert1802/EfCoreAcademy">C# - Entity Framework Core</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/LeetCode-CSharp">C# - LeetCode: 8</td>
     <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API CheatSheet</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
     <td><a href="https://github.com/Robert1802/RazorPagesMovie">C# - ASP.NET Core + Razor</td>
     <td>-</td>
   </tr>
