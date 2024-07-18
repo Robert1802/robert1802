@@ -80,6 +80,11 @@
     <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API CheatSheet</td>
     <td>-</td>
   </tr>
+  <tr>
+    <td>-</td>
+    <td><a href="https://github.com/Robert1802/RazorPagesMovie">C# - ASP.NET Core + Razor</td>
+    <td>-</td>
+  </tr>
 </table>
 </table>
   
