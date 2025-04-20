@@ -24,17 +24,17 @@
   <tr>
     <td><a href="https://github.com/Robert1802/HTTP-Basics">HTTP Basic</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Clean-Code">C# - Clean Code</td>
-    <td><a href="https://github.com/Robert1802/mern-stack-example">JavaScript - MERN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/mern-stack-example">JavaScript - MERN Stack Example (React)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-CheatSheet">JavaScript - CheatSheet</td>
     <td><a href="https://github.com/Robert1802/CSharp-SOLID/tree/master">C# - S.O.L.I.D.</td>
-    <td><a href="https://github.com/Robert1802/MEAN-TS">TypeScript - MEAN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/MEAN-TS">TypeScript - MEAN Stack Example (Angular)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">C# - Unit Test</td>
-    <td><a href="https://github.com/Robert1802/MEVN-JS">JavaScript - MEVN Stack Example</td>
+    <td><a href="https://github.com/Robert1802/MEVN-JS">JavaScript - MEVN Stack Example (Vue)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges: 15</td>
