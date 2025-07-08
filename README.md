@@ -1,4 +1,4 @@
-## Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
+## 🚀 Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
 <div style="display: flex" align="center">
   <a href="https://github.com/robert1802">
     <img height="160em"
@@ -7,6 +7,19 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert1802&layout=compact&langs_count=7&theme=algolia" />
 </div>
 
+<div>
+  ### 📷 Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
+
+  ### 📚 Educação:
+  》Formado em "Engenharia Mecatrônica" pelo Mackenzie
+  》Pós-graduação em "Gestão de Projetos" pelo Mackenzie
+  》Especialização em C# pela FIAP
+  》Pós-Graduação em "Arquitetura de Sistemas .NET com Azure" pela FIAP
+
+  ### 👔 Carreira:
+  》Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas
+  》C#, ASP.NET, Go, SQL Server, React e Angular
+</div>
 
 <h2>Destaques:</h2>
 <table align="center">
