@@ -1,5 +1,6 @@
 ## 🚀 Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
 <div>
+
   ### 📷 Conteúdo:
   Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
 
@@ -157,6 +158,6 @@
     <a href="https://www.linkedin.com/in/roberto-moura-3473206a/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
-    <img height="25%" width="10%" class="animated-gif"
+    <img height="27%" width="10%" class="animated-gif"
       src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true">
   </div>
