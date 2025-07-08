@@ -1,4 +1,20 @@
 ## 🚀 Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
+<div>
+  📷 Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
+
+  ### 📚 Educação:
+  <ul>
+    <li>Formado em "Engenharia Mecatrônica" pelo Mackenzie</li>
+    <li>Pós-graduação em "Gestão de Projetos" pelo Mackenzie</li>
+    <li>Especialização em C# pela FIAP</li>
+    <li>Pós-Graduação em "Arquitetura de Sistemas .NET com Azure" pela FIAP</li>
+  </ul>
+
+  ### 👔 Carreira:
+  》Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, COnsultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
+</div>
+
+<h2>Status:</h2>
 <div style="display: flex" align="center">
   <a href="https://github.com/robert1802">
     <img height="160em"
@@ -7,19 +23,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert1802&layout=compact&langs_count=7&theme=algolia" />
 </div>
 
-<div>
-  ### 📷 Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
-
-  ### 📚 Educação:
-  》Formado em "Engenharia Mecatrônica" pelo Mackenzie
-  》Pós-graduação em "Gestão de Projetos" pelo Mackenzie
-  》Especialização em C# pela FIAP
-  》Pós-Graduação em "Arquitetura de Sistemas .NET com Azure" pela FIAP
-
-  ### 👔 Carreira:
-  》Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas
-  》C#, ASP.NET, Go, SQL Server, React e Angular
-</div>
 
 <h2>Destaques:</h2>
 <table align="center">
@@ -153,6 +156,6 @@
     <a href="https://www.linkedin.com/in/roberto-moura-3473206a/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
-    <img height="10%" width="10%" class="animated-gif"
+    <img height="20%" width="20%" class="animated-gif"
       src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true">
   </div>
