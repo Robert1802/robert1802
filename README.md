@@ -1,6 +1,7 @@
 ## 🚀 Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
 <div>
-  📷 Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
+  ### 📷 Conteúdo:
+  Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
 
   ### 📚 Educação:
   <ul>
@@ -11,7 +12,7 @@
   </ul>
 
   ### 👔 Carreira:
-  》Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, COnsultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
+  Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, COnsultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
 </div>
 
 <h2>Status:</h2>
@@ -156,6 +157,6 @@
     <a href="https://www.linkedin.com/in/roberto-moura-3473206a/" target="_blank"><img
         src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         target="_blank"></a>
-    <img height="20%" width="20%" class="animated-gif"
+    <img height="25%" width="10%" class="animated-gif"
       src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true">
   </div>
