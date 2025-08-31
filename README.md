@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 39</td>
-    <td><a href="https://github.com/Robert1802/XUnitStudy">xUnity Study</td>
+    <td><a href="https://github.com/Robert1802/XUnitStudy">C# - xUnity Study</td>
     <td>-</td>
   </tr>
   <tr>
