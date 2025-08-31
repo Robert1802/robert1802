@@ -13,7 +13,7 @@
   </ul>
 
   ### 👔 Carreira:
-  Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, COnsultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
+  Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, Consultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
 </div>
 
 <h2>Status:</h2>
@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 39</td>
-    <td>-</td>
+    <td><a href="https://github.com/Robert1802/XUnitStudy">xUnity Study</td>
     <td>-</td>
   </tr>
   <tr>
