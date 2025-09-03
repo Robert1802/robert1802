@@ -1,19 +1,33 @@
-## 🚀 Fala Dev, beleza? Meu nome é Roberto Moura, Software Developer Engineer e criador de conteudo no YouTube!
+## 🚀 Whats up Dev? My name is Roberto Moura, Software Developer Engineer and content creator on YouTube!
 <div>
 
-  ### 📷 Conteúdo:
-  Crio conteudo sobre Programação e Carreiras em TI: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
+  ### 🌍 Community & Content:
+  I create content about Programming and IT Careers: <a href="https://www.instagram.com/dev.robert/"> Instagram </a> e <a href="https://www.youtube.com/@dev.robert"> Youtube</a>
 
-  ### 📚 Educação:
+  ### 📚 Education:
   <ul>
-    <li>Formado em "Engenharia Mecatrônica" pelo Mackenzie</li>
-    <li>Pós-graduação em "Gestão de Projetos" pelo Mackenzie</li>
-    <li>Especialização em C# pela FIAP</li>
-    <li>Pós-Graduação em "Arquitetura de Sistemas .NET com Azure" pela FIAP</li>
+    <li>🎓 Bachelor’s in Mechatronics Engineering – Mackenzie</li>
+    <li>🎓 Postgraduate in Project Management – Mackenzie</li>
+    <li>🎓 Specialization in C# Development – Mastering C# – FIAP</li>
+    <li>🎓 Currently pursuing Postgraduate in .NET Systems Architecture with Azure</li>
   </ul>
 
-  ### 👔 Carreira:
-  Trabalho há mais de 10 anos com Desenvolvimento de Software, Desenvolvimento Web, Melhoria de Processos e Automação de Sistemas. Já trabalhei no maior banco da America Latina, maior empresa de seguros da America Latina, Consultoria americana e empresa de pagamentos dos Estados unidos. Experiência com: C#, ASP.NET, Go, SQL Server, React e Angular.
+  ### 👔 Career Highlights:
+  <ul>
+    <li>10+ years in Software Development & Web Development</li>
+    <li>Built and maintained scalable APIs and enterprise systems</li>
+    <li>Experience with Windows Forms, Web Applications, and Automation</li>
+    <li>Solid background in System Architecture and Project Management</li>
+  </ul>
+
+  ### 🆙 Core Skills:
+  <ul>
+    <li>.NET, C#, ASP.NET Core, WebAPI, Microservices, Azure, Entity Framework</li>
+    <li>SQL Server, ETL, Database Design, REST APIs</li>
+    <li>Software Architecture, System Automation, Process Improvement</li>
+    <li>Front-End: React, Angular</li>
+    <li>DevOps, CI/CD, Agile, Cloud Deployments</li>
+  </ul>
 </div>
 
 <h2>Status:</h2>
@@ -26,7 +40,7 @@
 </div>
 
 
-<h2>Destaques:</h2>
+<h2>Highlights:</h2>
 <table align="center">
   <tr>
     <th>
@@ -144,7 +158,7 @@
   ##
 
 
-  <h2>Contatos</h2>
+  <h2>Contacts</h2>
   <div align="center">
     <a href="https://www.youtube.com/channel/UCcvT-PkQSkPdZ-uSmNAdA6Q" target="_blank"><img
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
