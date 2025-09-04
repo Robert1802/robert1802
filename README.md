@@ -1,4 +1,4 @@
-## 🚀 Whats up Dev? My name is Roberto Moura, Software Developer Engineer and content creator on YouTube!
+## 🚀 What's up, Dev? My name is Roberto Moura, Software Developer Engineer and content creator on YouTube!
 <div>
 
   ### 🌍 Community & Content:
@@ -6,15 +6,15 @@
 
   ### 📚 Education:
   <ul>
-    <li>🎓 Bachelor’s in Mechatronics Engineering – Mackenzie</li>
-    <li>🎓 Postgraduate in Project Management – Mackenzie</li>
-    <li>🎓 Specialization in C# Development – Mastering C# – FIAP</li>
-    <li>🎓 Currently pursuing Postgraduate in .NET Systems Architecture with Azure</li>
+    <li>🎓 Bachelor’s in "Mechatronics Engineering" – Mackenzie</li>
+    <li>🎓 Postgraduate in "Project Management" – Mackenzie</li>
+    <li>🎓 Specialization in C# Development "Mastering C#" – FIAP</li>
+    <li>🎓 Currently pursuing Postgraduate in ".NET Systems Architecture with Azure"</li>
   </ul>
 
   ### 👔 Career Highlights:
   <ul>
-    <li>10+ years in Software Development & Web Development</li>
+    <li>8+ years in Software Development & Web Development</li>
     <li>Built and maintained scalable APIs and enterprise systems</li>
     <li>Experience with Windows Forms, Web Applications, and Automation</li>
     <li>Solid background in System Architecture and Project Management</li>
