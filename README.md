@@ -108,6 +108,21 @@
     <td>-</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - Algorithms: 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/HackerRank-DataStructures">C# - Data Structures: 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Robert1802/HackerRank-React">JS - React: 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Robert1802/LeetCode-CSharp">C# - LeetCode: 25</td>
     <td>-</td>
     <td>-</td>
