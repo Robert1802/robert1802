@@ -6,10 +6,10 @@
 
   ### 📚 Education:
   <ul>
-    <li>🎓 Bachelor’s in "Mechatronics Engineering" – Mackenzie</li>
-    <li>🎓 Postgraduate in "Project Management" – Mackenzie</li>
-    <li>🎓 Specialization in C# Development "Mastering C#" – FIAP</li>
-    <li>🎓 Currently pursuing Postgraduate in ".NET Systems Architecture with Azure"</li>
+    <li>Bachelor’s in "Mechatronics Engineering" – Mackenzie</li>
+    <li>Postgraduate in "Project Management" – Mackenzie</li>
+    <li>Specialization in C# Development "Mastering C#" – FIAP</li>
+    <li>Currently pursuing Postgraduate in ".NET Systems Architecture with Azure"</li>
   </ul>
 
   ### 👔 Career Highlights:
@@ -64,81 +64,84 @@
     <td><a href="https://github.com/Robert1802/MEAN-TS">TypeScript - MEAN Stack Example (Angular)</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges: 15</td>
     <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">C# - Unit Test</td>
     <td><a href="https://github.com/Robert1802/MEVN-JS">JavaScript - MEVN Stack Example (Vue)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges: 15</td>
+    <td><a href="https://github.com/Robert1802/LeetCode-JavaScript">JavaScript - LeetCode: 2</td>
     <td><a href="https://github.com/Robert1802/ConsoleGPT">C# - ConsoleGPT</td>
     <td><a href="https://github.com/Robert1802/PluralSight-MongoDB-With-NodeJs">JavaScript - MongoDB + Node + Unitest</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/LeetCode-JavaScript">JavaScript - LeetCode: 2</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
     <td><a href="https://github.com/Robert1802/LinqCheatSheet">C# - LINQ</td>
     <td><a href="https://github.com/Robert1802/Mongoose-Express">JavaScript - Mongoose + Express</td>
   </tr>
     <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - O.O.P. (Concept)</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-React">JavaScript - HackerRank - React: 1</td>
     <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API</td>
     <td align="center"><b>C# .NET Projects</b></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D. (Concept)</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-OOP">JavaScript - O.O.P. (Concept)</td>
     <td><a href="https://github.com/Robert1802/EfCoreAcademy">C# - Entity Framework Core</td>
     <td><a href="https://github.com/Robert1802/CleanArchMvc">C# - Clean Archtecture MVC</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration)</td>
+    <td><a href="https://github.com/Robert1802/JavaScript-SOLID">JavaScript - S.O.L.I.D. (Concept)</td>
     <td><a href="https://github.com/Robert1802/TodoApi">C# - ASP.NET Core API</td>
     <td><a href="https://github.com/Robert1802/WebAPICourseProject">C# - ASP.NET Core Web API + EF + OAuth2 + Logging</td>
   <tr>
-    <td align="center"><b>C# CheatSheet / Challenges</b></td>
+    <td><a href="https://github.com/Robert1802/JavaScript-Test-Driven-Development">JavaScript - TDD (Unit + Integration)</td>
     <td><a href="https://github.com/Robert1802/RazorPagesMovie">C# - ASP.NET Core + Razor</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
+    <td align="center"><b>C# CheatSheet / Challenges</b></td>
     <td><a href="https://github.com/Robert1802/MvcMovie">C# - ASP.NET Core MVC + Razor</td>
     <td>-</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
     <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank - Mix: 39</td>
     <td><a href="https://github.com/Robert1802/XUnitStudy">C# - xUnity Study</td>
     <td>-</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - HackerRank - Algorithms: 1</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Robert1802/LeetCode-CSharp">C# - LeetCode: 25</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Robert1802/LeetCode75">C# - LeetCode 75: 4 / 75</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Robert1802/NeetCode">C# - NeetCode: 2 / 150</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank - Mix: 39</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+    <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - HackerRank - Algorithms: 1</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-DataStructures">C# - HackerRank - Data Structures: 1</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank-React">JS - HackerRank - React: 1</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/LeetCode-CSharp">C# - LeetCode: 25</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/NeetCode">C# - NeetCode: 2 / 150</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Robert1802/LeetCode75">C# - LeetCode 75: 4 / 75</td>
     <td>-</td>
     <td>-</td>
   </tr>
