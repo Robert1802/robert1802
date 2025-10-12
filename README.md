@@ -103,22 +103,22 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank: 39</td>
+    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank - Mix: 39</td>
     <td><a href="https://github.com/Robert1802/XUnitStudy">C# - xUnity Study</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - Algorithms: 1</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - HackerRank - Algorithms: 1</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank-DataStructures">C# - Data Structures: 1</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-DataStructures">C# - HackerRank - Data Structures: 1</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank-React">JS - React: 1</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-React">JS - HackerRank - React: 1</td>
     <td>-</td>
     <td>-</td>
   </tr>
