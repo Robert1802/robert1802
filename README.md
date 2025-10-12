@@ -65,7 +65,6 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/JavaScript-CodeChallenges">JavaScript - CodeChallenges: 15</td>
-    <td><a href="https://github.com/Robert1802/HackerRank-JavaScript">JavaScript - HackerRank: 3</td>
     <td><a href="https://github.com/Robert1802/PluralSight-Unit-Test-In-CSharp">C# - Unit Test</td>
     <td><a href="https://github.com/Robert1802/MEVN-JS">JavaScript - MEVN Stack Example (Vue)</td>
   </tr>
