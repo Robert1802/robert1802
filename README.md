@@ -78,7 +78,7 @@
     <td><a href="https://github.com/Robert1802/LinqCheatSheet">C# - LINQ</td>
     <td><a href="https://github.com/Robert1802/Mongoose-Express">JavaScript - Mongoose + Express</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/Robert1802/HackerRank-React">JavaScript - HackerRank - React: 1</td>
     <td><a href="https://github.com/Robert1802/MinimalAPICheatSheet">C# - Minimal API</td>
     <td align="center"><b>C# .NET Projects</b></td>
@@ -104,13 +104,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/CSharp-CheatSheet">C# - CheatSheet</td>
-    <td><a href="https://github.com/Robert1802/HackerRank">C# - HackerRank - Mix: 39</td>
     <td><a href="https://github.com/Robert1802/XUnitStudy">C# - xUnity Study</td>
     <td>-</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Robert1802/CodeWars">C# - CodeWars: 2</td>
-    <td><a href="https://github.com/Robert1802/HackerRank-Algorithms">C# - HackerRank - Algorithms: 1</td>
     <td>-</td>
     <td>-</td>
   </tr>
