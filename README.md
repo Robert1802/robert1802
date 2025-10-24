@@ -143,7 +143,7 @@
     <td>-</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Robert1802/HackerRank-InterviewPreparationKit">C# - HackerRank - Interview Prep Kit: 11 / 69</td>
+    <td><a href="https://github.com/Robert1802/HackerRank-InterviewPreparationKit">C# - HackerRank - Interview Prep: 11 / 69</td>
     <td>-</td>
     <td>-</td>
   </tr>
